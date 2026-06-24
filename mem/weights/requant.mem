@@ -1,0 +1,7 @@
+// Q0.16 requant multipliers (32-bit signed)
+// layer 0  M_float=0.000314217
+00000015
+// layer 1  M_float=0.00232543
+00000098
+// layer 2  M_float=0.00215171
+0000008d
