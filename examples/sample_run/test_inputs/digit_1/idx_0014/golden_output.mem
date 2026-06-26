@@ -1,0 +1,11 @@
+// INT8 golden output for test idx=14, true label=1, q-pred=1
+f0
+15
+f8
+fd
+ff
+f6
+f9
+f9
+00
+fc
