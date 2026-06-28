@@ -1,0 +1,9 @@
+MNIST test set idx : 21
+True label         : 6
+Python prediction  : 6
+Correct?           : YES
+INT8 logits        : [-3, -7, -3, -10, -6, 3, 15, -18, 2, -15]
+
+Usage:
+  copy input_packed.mem + golden_output.mem into your
+  Vivado proj <proj>.sim/sim_1/behav/xsim/ folder and relaunch sim
